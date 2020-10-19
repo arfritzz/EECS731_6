@@ -1,1 +1,1 @@
-this is my notebook
+In this notebook, I analyzed the data to perform anomaly detection. The data described the number of taxi riders in NYC in 2014 to the beginning of 2015. I used Isolation Forest and the Interquartile Range algorithms to find the anomalies. I determined that most anomalies occure during the holidays, like Halloween, Thanksgiving, and Christmas. 
